@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @RivanAji
 - 👀 I’m interested in GIS and Data Science
-- 🌱 I’m currently learning Smart Urban Planning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Spatial Urban Planning
 
 <!---
 RivanAji/RivanAji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
